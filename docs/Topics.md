@@ -1,11 +1,10 @@
 # Working in Ireland for non-EU professionals (Software Engineers)
 
-## Work
-### Overview
-### Company & Role categories
-### Applying to jobs
-### Interview Prep
-### Offer negotiation
-### Work Culture
-### Success & Growth in your role
-### My two cents
+### [Overview](./subtopics/overview.md)
+### [Company & Role categories](./subtopics/categories.md)
+### [Applying to jobs](./subtopics/apply.md)
+### [Interview Prep](./subtopics/interview.md)
+### [Offer negotiation](./subtopics/negotiation.md)
+### [Work Culture](./subtopics/culture.md)
+### [Success & Growth in your role](./subtopics/success.md)
+### [My two cents](./subtopics/cents2.md)
