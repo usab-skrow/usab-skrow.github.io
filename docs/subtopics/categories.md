@@ -16,9 +16,10 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
     * ECommerce: Amazon, Zalando..
     * Other: Apple
 * Enterprise Business
-    * Cloud Managed Services: AWS, GCP, Azure, OCI, VMC..
+    * Cloud Managed Services: AWS, GCP, MS Azure, OCI, VMC..
     * Enterprise Software: Salesforce, ServiceNow, Workday, Zendesk, SAP, Personio, Hubspot..
     * Cloud Platform & Tools: Datadog, Gitlab, Github, Redhat, HPE, Cisco, Twilio, Elastic..
+    * Other: Microsoft
 * Finance
     * Payments Infra: Stripe, Clover, Fiserv, ACI..
     * High Frequency Trading: Virtu, HRT, SIG, Citadel..
