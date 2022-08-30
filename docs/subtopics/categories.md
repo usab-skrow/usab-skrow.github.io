@@ -1,6 +1,8 @@
 
 The beauty of being a Software Engineer is the skills are industry agnostic. A software engineer can work in cloud, banking, retail, trading, crypto, manufacturing, medical ... practically all industries under the sun. As long as the industry uses a software/computer to get things done.
 
+## Companies
+
 ### By Origin
 * USA
 * Europe
