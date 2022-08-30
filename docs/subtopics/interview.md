@@ -8,24 +8,24 @@ There are primarily 2 broader areas that checked.
 
 ### Technical Aptitude
 1. The Essentials (Any one in each point)
-    0. Computer Science 
+    1. Computer Science 
         1. Data Structure & Algorithm
         2. Software Design Patterns
-    1. Primary programming language (the application logic on server side): Java, Scala, Ruby, Python, GoLang, C++ etc
-    2. Database(the place to store suff): RDBMS - MySQL, PostgreSQL.. NoSQL - MongoDb, Cassandra, Couchbase, Neo4j 
-    3. Secondary programming language for Scripting(to automate lot of linux work) - Bash, Powershell
-    4. UI Scripts(the application logic on user side): Javascript, Typescript
+    2. Primary programming language (the application logic on server side): Java, Scala, Ruby, Python, GoLang, C++ etc
+    3. Database(the place to store suff): RDBMS - MySQL, PostgreSQL.. NoSQL - MongoDb, Cassandra, Couchbase, Neo4j 
+    4. Secondary programming language for Scripting(to automate lot of linux work) - Bash, Powershell
+    5. UI Scripts(the application logic on user side): Javascript, Typescript
 2. The Good to Have (which has become essential in top tech especially for senior engineers, its good to know a few of the below)
-    0. System communication(for communication between separate systems): REST APIs (HTTP), gRPC
-    1. Caches(make things faster): Redis, Memcached
-    2. Message Queues(make things asynchronous): Kafka, RabbitMQ
-    3. Data storage optimisation(remove database performance bottlenecks): Sharding, Partitioning
-    4. Load Balancing (handle and direct user traffic to servers): Nginx, F5 
-    5. Data management (to make sure product can scale): Replication, Archival
-    6. Logging (essential for troubleshooting): Log4j..
-    7. CICD: Github, Gitlab, Jenkins..
-    8. Cloud Stack: Kubernetes, Docker, Prometheus, Grafana..
-    9. Big Data Stack: Apache Hadoop, Spark, MapReduce
+    1. System communication(for communication between separate systems): REST APIs (HTTP), gRPC
+    2. Caches(make things faster): Redis, Memcached
+    3. Message Queues(make things asynchronous): Kafka, RabbitMQ
+    4. Data storage optimisation(remove database performance bottlenecks): Sharding, Partitioning
+    5. Load Balancing (handle and direct user traffic to servers): Nginx, F5 
+    6. Data management (to make sure product can scale): Replication, Archival
+    7. Logging (essential for troubleshooting): Log4j..
+    8. CICD: Github, Gitlab, Jenkins..
+    9. Cloud Stack: Kubernetes, Docker, Prometheus, Grafana..
+    10. Big Data Stack: Apache Hadoop, Spark, MapReduce
 3. Amazing if you know them.
     1. Distributed Systems design patterns & fallacies
     2. ACID principles
