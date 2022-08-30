@@ -20,12 +20,12 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
     * Cloud Managed Services: AWS, GCP, MS Azure, OCI, VMC..
     * Enterprise Software: Salesforce, ServiceNow, Workday, Zendesk, SAP, Personio, Hubspot..
     * Cloud Platform & Tools: Datadog, Gitlab, Github, Redhat, HPE, Cisco, Twilio, Elastic..
-    * Other: Microsoft
+    * Other: Microsoft, Toast..
 * Finance
     * Payments Infra: Stripe, Clover, Fiserv, ACI..
     * High Frequency Trading: Virtu, HRT, SIG, Citadel..
     * Banking: Citi, JPM, Bank of America, Bank of Ireland, AIB..
-    * Other: Bloomberg, Murex..
+    * Other: Guidewire, Bloomberg, Murex..
 * Other Interesting Areas
     * Manufacturing: Ericsson, Jaguar Land Rover, J&J, Novartis
     * Online Betting/Gambling : PaddyPower, Betfair
