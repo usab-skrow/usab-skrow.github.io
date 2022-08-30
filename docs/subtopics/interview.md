@@ -15,6 +15,7 @@ There are primarily 2 broader areas that checked.
     3. Database(the place to store suff): RDBMS - MySQL, PostgreSQL.. NoSQL - MongoDb, Cassandra, Couchbase, Neo4j 
     4. Secondary programming language for Scripting(to automate lot of linux work) - Bash, Powershell
     5. UI Scripts(the application logic on user side): Javascript, Typescript
+    6. Testing(unit & integration): junit, spock, pytest..
 2. The Good to Have (which has become essential in top tech especially for senior engineers, its good to know a few of the below)
     1. System communication(for communication between separate systems): REST APIs (HTTP), gRPC
     2. Caches(make things faster): Redis, Memcached
