@@ -3,7 +3,7 @@
 ### [Overview](./subtopics/overview.md)
 ### [Company & Role categories](./subtopics/categories.md)
 ### [Applying to jobs](./subtopics/apply.md)
-### [Interview Prep](./subtopics/interview.md)
+### [Interviewing](./subtopics/interview.md)
 ### [Offer Negotiation](./subtopics/negotiation.md)
 ### [Work Culture](./subtopics/culture.md)
 ### [Success & Growth in your role](./subtopics/success.md)
