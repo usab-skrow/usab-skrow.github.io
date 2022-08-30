@@ -7,7 +7,7 @@ There are primarily 2 broader areas that checked.
 2. Team fit
 
 ### Technical Aptitude
-1. The Essentials (Any one in each point)
+1. The Essentials
     1. Computer Science 
         1. Data Structure & Algorithm
         2. Software Design Patterns
