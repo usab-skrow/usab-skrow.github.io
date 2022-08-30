@@ -34,7 +34,7 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ## Roles
 
 ### By Area (There are overlaps)
-* **Sofware Engineer/Sofware Development Engineer/Member of Technical Staff (General Software Engineering)**
+* **Sofware Engineer/Sofware Development Engineer/Member of Technical Staff (SWE/SDE/MTS)**
     * Works in design and development of the software/application
 * Software QA Engineer/ Software Development Engineer in Test (QA/QE/SDET)
     * Works on quality assurance/engineering (software testing) of the project
