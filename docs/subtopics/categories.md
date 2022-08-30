@@ -44,8 +44,8 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ### By Seniority (There will be variations and sub levels)
 
 **Leadership & Management are 2 different things.** There are commonly 2 tracks in every organization. 
-IC (Individual Contributor) is the main engineering track for people whose most work is technical in nature. It rarely involves team management. After a certain level they are become technical leaders in the organization.
-M (Management) is the people manager track which is focussed less on the technical aspects of the project and more on effectiveness, team management, well being of the members. Also can play role as Scrum Master in scrum teams.
+- IC (Individual Contributor) is the main engineering track for people whose most work is technical in nature. It rarely involves team management. After a certain level they are become technical leaders in the organization.
+- M (Management) is the people manager track which is focussed less on the technical aspects of the project and more on effectiveness, team management, well being of the members. Also can play role as Scrum Master in scrum teams.
 
 * Individual Contributor
     * Software Engineer I  (Junior)
