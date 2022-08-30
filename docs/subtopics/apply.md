@@ -27,7 +27,7 @@ Effectively searching and applying for the correct role can be hard but having a
 1. 1 page CV if you are applying to Senior Software Engineer & below.
 2. Explicitly put **what you did** rather than what the team's responsility were.
 3. If it's for technical role, make sure you add "technical description" of your work. Don't be afraid to put technical jargon in the CV. CV's are reviewed by recruiters, engineering managers & senior engineers in the team.
-4. If you feel your professional experience is not too impressive due to whatever reason, have an impressive github profile with side projects. Add them in the CV. Make sure the repos are public and can be reviewed.
+4. If you feel your professional experience is not too impressive due to whatever reason, supplement with a github profile of your side projects. Add them in the CV. Make sure the repos are public and can be reviewed.
 5. You are telling a story in your CV. Don't make the reviewer confused by adding a bit of everything. Quality over Quantity.
 
 ### Apply
