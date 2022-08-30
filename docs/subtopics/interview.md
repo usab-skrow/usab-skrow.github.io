@@ -7,6 +7,8 @@ There are primarily 2 broader areas that checked.
 2. Team fit
 
 ### Technical Aptitude
+
+#### Study Areas
 1. The Essentials
     1. Computer Science 
         1. Data Structure & Algorithm
@@ -37,3 +39,13 @@ There are primarily 2 broader areas that checked.
     7. Networking best practices
     8. Service Oriented Architecture
 
+#### Interview Types
+1. Initial Screening : Mostly covers **DSA**, OOP design, SQL, Design Patterns
+    1. Online Coding Test: You code in an online editor within a limited time to solve 1 or more problems. There are background tests that your code need to clear. Focus on optimal implementation. Do NOT expect linting, auto complete or syntax highlight.
+    2. Phone Screening: Similar to the above, you are on a call with an engineer from the company with a shared code editor/doc in front. Interviewer will ask questions on your coding decisions & possibly follow up on your solution. You speak to the interviewer while you code. It focusses on your communication skills, ingenuity and clarity of thought. It is also designed to prevent fraud.
+2. Main Rounds (2--5 rounds, might be done all on the same day): All of them are with another engineer from the company
+    1. DSA round (possibly more than 1): Checks if you code keeping time and space complexity in mind.
+    2. OOP round: Checks if your code is modular is easily extensible
+    3. Work Sample Simulation: Checks how to approach a real world project. Covers design, coding, testing & documentation.
+    4. Fix the Bug: Checks how you debug a problem.
+    5. System Design Round: Checks if you can visualize the larger picture and design a distributed system keeping future changes in mind. 
