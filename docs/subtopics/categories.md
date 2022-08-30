@@ -42,7 +42,7 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 * TSE (Technical Support Engineering)
     * Works on the issues reported by customers on the product/service
 
-### By Seniority
+### By Seniority (There will be variations and sub levels)
 * Software Engineer I  (Junior)
     * Entry level engineer working on small parts/individual features of the project. 
 * Software Engineer II (Mid)
