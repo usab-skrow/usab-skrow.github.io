@@ -60,3 +60,6 @@ There are primarily 2 broader areas that checked.
 2. Hiring Manager: This round is basically for the manager to evaluate you as a reportee. To see if you will bond well in the team's culture, vision and social aspects. Your ambitions , short & long term plans and your expectations from the company and team are also discussed. It is important to note that depending on the manager and the company, they might look for "culture add" vs "culture fit". Also discussion around team leadership roles if applicable.
 3. Leadership: This round is mostly a meet and greet with a VP or Senior Director under whose org you will join. Its informal and open ended.
 4. Program/Product Manager: This round is a meeting with the program/product manager of the project on which you will work on. Its also informal and revolves around project vision, roadmap and your past experiences. 
+
+
+Note: You may encounter only 1 or multiple rounds as listed here. This document captures most common variations of interviews.
