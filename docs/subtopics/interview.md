@@ -29,7 +29,7 @@ There are primarily 2 broader areas that checked.
     8. CICD (build & deploy): Github, Gitlab, Jenkins..
     9. Cloud Stack (run in cloud production): Kubernetes, Docker, Prometheus, Grafana..
     10. Big Data Stack (process large unstructured data): Apache Hadoop, Spark, MapReduce
-    11. Multithreaded applications: best practices, race conditions, common issues
+    11. Multithreaded applications (making sure to use all the cores in the CPU asynchronously): best practices, race conditions, common issues
     12. IAM (identity and access management): Single Sign On, Oauth2.0, Token 
 3. Amazing if you know them.
     1. Distributed Systems design patterns & fallacies
