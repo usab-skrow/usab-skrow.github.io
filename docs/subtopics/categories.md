@@ -4,19 +4,18 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ## Companies
 
 ### By Origin
-* USA
+* **USA**
 * Europe
-* China 
-* India
+* Asia [India & China]
 * Other
 
 ### By Business
 * Internet Business
-    * Social Media: Meta, Pinterest, Reddit, Twitter..
+    * Social Media: Meta, Pinterest, Reddit, Twitter, Tiktok..
     * Internet Sites: Groupon, TripAdvisor, Yahoo, Google..
     * ECommerce: Amazon, Zalando, Overstock..
     * Other: Apple
-* Enterprise Business
+* **Enterprise Business**
     * Cloud Managed Services: AWS, GCP, MS Azure, OCI, VMC..
     * Enterprise Software: Salesforce, ServiceNow, Workday, Zendesk, SAP, Personio, Hubspot..
     * Cloud Platform & Tools: Datadog, Gitlab, Github, Redhat, HPE, Cisco, Twilio, Elastic..
@@ -35,7 +34,7 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ## Roles
 
 ### By Area (There are overlaps)
-* SE/SDE/SWE/MTS (General Software Engineering)
+* **SE/SDE/SWE/MTS (General Software Engineering)**
     * Works in design and development of the software/application
 * SRE (Site Reliability Engineering)
     * Works in designing, scaling, monitoring & running the production setup
@@ -45,7 +44,7 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ### By Seniority (There will be variations and sub levels)
 * Software Engineer I  (Junior)
     * Entry level engineer working on small parts/individual features of the project. 
-* Software Engineer II (Mid)
+* **Software Engineer II (Mid)**
     * Experienced engineer working on multiple inter-related parts and owning a module of the project.
 * Senior Software Engineer
     * Senior engineer working on multiple inter-related modules and owning a major area of the project. Also includes mentoring, code reviews, design, etc. Could also act as tech lead in some organisations.
@@ -55,3 +54,6 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
     * Engineer owning the companies/business unit's product roadmap & vision. Responsible for envisioning & positioning of product in the current portfolio & market.  
 * Engineering Fellow
     * Industry level expert.
+
+
+Note: The majority are in bold.
