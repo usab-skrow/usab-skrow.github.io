@@ -36,6 +36,8 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ### By Area (There are overlaps)
 * **Sofware Engineer/Sofware Development Engineer/Member of Technical Staff (General Software Engineering)**
     * Works in design and development of the software/application
+* Software QA Engineer/ Software Development Engineer in Test (QA/QE/SDET)
+    * Works on quality assurance/engineering (software testing) of the project
 * Site Reliability Engineer (SRE)
     * Works in designing, scaling, monitoring & running the production setup
 * Technical Support Engineer (TSE)
