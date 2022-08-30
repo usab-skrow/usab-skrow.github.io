@@ -34,12 +34,14 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
 ## Roles
 
 ### By Area (There are overlaps)
-* **SE/SDE/SWE/MTS (General Software Engineering)**
+* **Sofware Engineer/Sofware Development Engineer/Member of Technical Staff (General Software Engineering)**
     * Works in design and development of the software/application
-* SRE (Site Reliability Engineering)
+* Site Reliability Engineer (SRE)
     * Works in designing, scaling, monitoring & running the production setup
-* TSE (Technical Support Engineering)
+* Technical Support Engineer (TSE)
     * Works on the issues reported by customers on the product/service
+* Business Engineer/Enterprise Engineer/Customer Engineer (BE/CE)
+    * Customer facing engineering role focussed on customer implementation and configuration. Leads to Solution Consulting/Architecting track.
 
 ### By Seniority (There will be variations and sub levels)
 
