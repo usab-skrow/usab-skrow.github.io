@@ -19,7 +19,7 @@ There are primarily 2 broader areas that checked.
     5. UI Scripts (the application logic on user side): Javascript, Typescript
     6. Testing (unit & integration): junit, spock, pytest..
 2. The Good to Have (which has become essential in top tech especially for senior engineers, its good to know a few of the below)
-    1. System communication (for communication between separate systems): REST APIs (HTTP), gRPC
+    1. System communication (for communication between separate systems): REST API, gRPC
     2. Caches (make things faster): Redis, Memcached
     3. Message Queues (make things asynchronous): Kafka, RabbitMQ
     4. Data storage optimisation (remove database performance bottlenecks): Sharding, Partitioning
@@ -29,6 +29,8 @@ There are primarily 2 broader areas that checked.
     8. CICD (build & deploy): Github, Gitlab, Jenkins..
     9. Cloud Stack (run in cloud production): Kubernetes, Docker, Prometheus, Grafana..
     10. Big Data Stack (process large unstructured data): Apache Hadoop, Spark, MapReduce
+    11. Multithreaded applications: best practices, race conditions, common issues
+    12. IAM (identity and access management): Single Sign On, Oauth2.0, Token 
 3. Amazing if you know them.
     1. Distributed Systems design patterns & fallacies
     2. ACID principles
@@ -38,6 +40,7 @@ There are primarily 2 broader areas that checked.
     6. Architecture best practices
     7. Networking best practices
     8. Service Oriented Architecture
+    9. API design best practices
 
 #### Interview Types
 1. Initial Screening : Mostly covers **DSA**, OOP design, SQL, Design Patterns
