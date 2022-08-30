@@ -12,7 +12,7 @@ Effectively searching and applying for the correct role can be hard but having a
 
 ### LinkedIn Research
 
-1. Find & connect with recruiters & engineering managers in linkedin who are based in Ireland.
+1. Find & connect with recruiters & engineering managers in linkedin who are based in Ireland. (Search for tech recruiter & engineering manager)
 2. Search LinkedIn jobs with the company name to understand if there is a hiring spree going on.
 3. Follow the company and hashtag to see if there is a lot of new hire activity.
 4. Drop a message with the joblink to the recruiter if it is of interest.
