@@ -4,7 +4,7 @@ Nice, so you have been shortlisted for the interview. Now to do well in them you
 
 There are primarily 2 broader areas that checked.
 1. Technical Aptitude
-2. Team fit
+2. Interpersonal
 
 ### Technical Aptitude
 
@@ -53,9 +53,9 @@ There are primarily 2 broader areas that checked.
     4. Fix the Bug: Checks how you debug a problem.
     5. System Design Round: Checks if you can visualize the larger picture and design a distributed system keeping future changes in mind. 
 
-### Team Fit
+### Interpersonal
 
 1. Meet the Team: This round is basically for the team members to meet the potential new member and provide feedback to the Hiring Manager if they would like to have you on their team. Bonding is essential for the team's success. Think of it as a "vibe check".
-2. Hiring Manager: This round is basically for the manager to evaluate you as a reportee. To see if you will bond well in the team's culture, vision and social aspects. Your ambitions , short & long term plans and also your expectations from the company and team are also discussed. It is important to note that depending on the manager and the company, they might look for "culture add" vs "culture fit".
-3. Leadership: This round is mostly a meet and greet with a VP or Senior Director under whose org you will join. Its very informal and open ended.
+2. Hiring Manager: This round is basically for the manager to evaluate you as a reportee. To see if you will bond well in the team's culture, vision and social aspects. Your ambitions , short & long term plans and also your expectations from the company and team are also discussed. It is important to note that depending on the manager and the company, they might look for "culture add" vs "culture fit". Also discussion around team leadership roles if applicable.
+3. Leadership: This round is mostly a meet and greet with a VP or Senior Director under whose org you will join. Its informal and open ended.
 4. Program/Product Manager: This round is a meeting with the program/product manager of the project on which you will work on. Its also informal and revolves around project vision, roadmap and your past experiences. 
