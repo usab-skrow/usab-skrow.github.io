@@ -12,7 +12,7 @@ Effectively searching and applying for the correct role can be hard but having a
 
 ### LinkedIn Research
 
-1. Find & connect with recruiters & engineering managers in linkedin who are based in Ireland. (Search for tech recruiter & engineering manager)
+1. **Find & connect with recruiters & engineering managers in linkedin who are based in Ireland. (Search for tech recruiter & engineering manager)**
 2. Search LinkedIn jobs with the company name to understand if there is a hiring spree going on.
 3. Follow the company and hashtag to see if there is a lot of new hire activity.
 4. Drop a message with the joblink to the recruiter if it is of interest.
@@ -22,3 +22,16 @@ Effectively searching and applying for the correct role can be hard but having a
 ### Other Platforms
 1. Glassdoor
 2. Indeed 
+
+### CV
+1. 1 page CV if you are applying to Senior Software Engineer & below.
+2. Explicitly put **what you did** rather than what the team's responsility were.
+3. If it's for technical role, make sure you add "technical description" of your work. Don't be afraid to put technical jargon in the CV. CV's are reviewed by recruiters, engineering managers & senior engineers in the team.
+4. If you feel your professional experience is not too impressive due to whatever reason, have an impressive github profile with side projects. Add them in the CV. Make sure the repos are public and can be reviewed.
+5. You are telling a story in your CV. Don't make the reviewer confused by adding a bit of everything. Quality over Quantity.
+
+### Apply
+1. Apply on career site. (First preference)
+2. Apply on job sites.
+3. It takes some time to find the right match, so don't get discouraged if you don't hear back the next day or next week.
+4. If you don't see an opening at the moment in the career site, join their talent network if its available. That way recruiters already know you are interested in the company even before a requirement is created. 
