@@ -49,7 +49,7 @@ There are primarily 2 broader areas that checked.
 2. Main Rounds (2--5 rounds, might be done all on the same day): All of them are with another engineer from the company
     1. DSA round (possibly more than 1): Checks if you code keeping time and space complexity in mind.
     2. OOP round: Checks if your code is modular, readable and is easily extensible.
-    3. Work Sample Simulation: Checks how to approach a real world project. Covers design, coding, testing & documentation.
+    3. Work Sample Simulation: Checks how you approach a real world project. Covers design, coding, testing & documentation.
     4. Fix the Bug: Checks how you debug a problem.
     5. System Design Round: Checks if you can visualize the larger picture and design a distributed system keeping future changes in mind. 
 
