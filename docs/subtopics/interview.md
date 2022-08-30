@@ -17,7 +17,7 @@ There are primarily 2 broader areas that checked.
     5. UI Scripts (the application logic on user side): Javascript, Typescript
     6. Testing (unit & integration): junit, spock, pytest..
 2. The Good to Have (which has become essential in top tech especially for senior engineers, its good to know a few of the below)
-    1. System communication(for communication between separate systems): REST APIs (HTTP), gRPC
+    1. System communication (for communication between separate systems): REST APIs (HTTP), gRPC
     2. Caches (make things faster): Redis, Memcached
     3. Message Queues (make things asynchronous): Kafka, RabbitMQ
     4. Data storage optimisation (remove database performance bottlenecks): Sharding, Partitioning
