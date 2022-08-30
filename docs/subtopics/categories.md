@@ -56,4 +56,4 @@ The beauty of being a Software Engineer is the skills are industry agnostic. A s
     * Industry level expert.
 
 
-Note: The majority are in bold.
+**Note: The majority are in bold.**
