@@ -1,1 +1,1 @@
-SWE/SDE Ireland > [Here](./docs/Topics.md)
+SWE/SDE Ireland > [Here](https://github.com/usab-skrow/swe-ireland/blob/master/topics.md)
